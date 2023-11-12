@@ -1,0 +1,6 @@
+﻿  MyString.cpp
+  lab04_3.cpp
+  Point.cpp
+  Generating Code...
+C:\Users\danil\Projects\PROJECT\3sem\lab04_3\lab04_3\MyString.cpp(68): warning C4715: 'MyString::operator=': not all control paths return a value
+  lab04_3.vcxproj -> C:\Users\danil\Projects\PROJECT\3sem\lab04_3\Debug\lab04_3.exe

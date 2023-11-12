@@ -1,0 +1,15 @@
+﻿  MyString.cpp
+E:\PROJECT\3sem\lab04_3\lab04_3\MyString.cpp(9,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\PROJECT\3sem\lab04_3\lab04_3\MyString.cpp(56,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  lab04_3.cpp
+E:\PROJECT\3sem\lab04_3\lab04_3\lab04_3.cpp(185,3): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+E:\PROJECT\3sem\lab04_3\lab04_3\lab04_3.cpp(185,3): error C2065: 'nop': undeclared identifier
+E:\PROJECT\3sem\lab04_3\lab04_3\lab04_3.cpp(186,2): error C2143: syntax error: missing ';' before '}'
+E:\PROJECT\3sem\lab04_3\lab04_3\lab04_3.cpp(286,3): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+E:\PROJECT\3sem\lab04_3\lab04_3\lab04_3.cpp(286,3): error C2065: 'nop': undeclared identifier
+E:\PROJECT\3sem\lab04_3\lab04_3\lab04_3.cpp(341,3): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+E:\PROJECT\3sem\lab04_3\lab04_3\lab04_3.cpp(341,3): error C2065: 'nop': undeclared identifier
+E:\PROJECT\3sem\lab04_3\lab04_3\lab04_3.cpp(328,2): error C2065: 'nop': undeclared identifier
+E:\PROJECT\3sem\lab04_3\lab04_3\lab04_3.cpp(362,2): error C2143: syntax error: missing ';' before 'return'
+  Generating Code...
+E:\PROJECT\3sem\lab04_3\lab04_3\MyString.cpp(68): warning C4715: 'MyString::operator=': not all control paths return a value
